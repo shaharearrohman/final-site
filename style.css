@@ -1,0 +1,57 @@
+.banner{
+    background-image: url("site/top-banner.png");
+    background-repeat: no-repeat;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#name{
+    color: cyan;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+
+}
+section{
+    height: 500px;
+}
+.half-width img{
+    width: 100%;
+}
+.colro{
+    color: deeppink;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,green,red);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: lightcyan;
+    font-weight: bold;
+}
+.aria{
+    background-image: url("site/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+section{
+    height: 500px;
+}
+.schend{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.schend img{
+    width: 100%;
+}
+.fanny{
+    color: red;
+}
+.jaka{
+    color: slateblue;
+}
